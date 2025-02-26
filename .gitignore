@@ -1,6 +1,7 @@
 # Ansible specific files
 playbook.yml
 inventory.ini
+templates/
 
 # Jetbrains specific files
 .idea*
